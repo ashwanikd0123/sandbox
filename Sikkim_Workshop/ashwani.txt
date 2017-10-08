@@ -7,3 +7,7 @@ hi there
 this is made in new branch feature1
 
 again again
+
+this is made in branch feature2
+
+again again
